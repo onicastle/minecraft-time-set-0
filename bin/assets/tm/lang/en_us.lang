@@ -1,0 +1,30 @@
+//Items
+item.twilight_ingot.name=Twilight Ingot
+
+//Blocks
+tile.power_generator.name=Power Generator
+tile.energy_storage.name=Energy Storage
+tile.electric_sintering_furnace.name=Electric Sinterer
+block.power_generator.name=Power Generator
+tile.twilight_block.name=Twilight Block
+tile.twilight_ore.name=Twilight Ore
+
+
+//Tools
+item.twilight_sword.name=Twilight Sword
+item.twilight_shovel.name=Twilight Shovel
+item.twilight_pickaxe.name=Twilight Pickaxe
+item.twilight_axe.name=Twilight Axe
+item.twilight_hoe.name=Twilight Hoe
+
+//Armor
+item.newerbow.name=Newer Bow
+item.twilight_helmet.name=Twilight Helmet
+item.twilight_chestplate.name=Twilight Chestplate
+item.twilight_leggins.name=Twilight Leggins
+item.twilight_boots.name=Twilight Boots
+
+//Containers
+container.power_generator=Power Generator
+container.electric_sintering_furnace=Electric Sinterer
+container.energy_storage=Energy Storage
