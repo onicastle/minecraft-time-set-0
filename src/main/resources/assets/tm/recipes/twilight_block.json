@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+   
+    "key":
+    {
+        "T":
+        {
+            "item": "tm:twilight_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:twilight_block",
+        "count": 1
+    }
+}

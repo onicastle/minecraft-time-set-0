@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "tm:blocks/sintering_furnace_side",
+        "up": "tm:blocks/sintering_furnace_side",
+        "down": "tm:blocks/sintering_furnace_side",
+        "north": "tm:blocks/power_generator_side",
+        "east": "tm:blocks/power_generator_side",
+        "south": "tm:blocks/power_generator_side",
+        "west": "tm:blocks/power_generator_side"
+    }
+}
